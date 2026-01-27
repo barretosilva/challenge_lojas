@@ -1,4 +1,4 @@
-Lojas — Análise de Dados
+Lojas Análise de Dados
 Este projeto apresenta uma análise exploratória dos dados de quatro lojas, considerando métricas como avaliações dos clientes, categorias de produtos, itens mais e menos vendidos e custos médios de frete. O objetivo é gerar insights claros e visuais simples que apoiem decisões estratégicas.
 
 Propósito da Análise
