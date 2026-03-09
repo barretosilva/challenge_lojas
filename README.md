@@ -49,7 +49,7 @@ notebooks/challenge_lojas.ipynb
 Execute as células na ordem em que aparecem.
 
 📎 Link para execução no Google Colab:  
-Challenge Lojas – Notebook
+[Challenge Lojas – Notebook] (https://colab.research.google.com/github/barretosilva/challenge_lojas/blob/main/challenge_lojas.ipynb)
 
 🚀 Tecnologias Utilizadas
 Python
