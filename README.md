@@ -1,33 +1,39 @@
-Lojas Análise de Dados
-Este projeto apresenta uma análise exploratória dos dados de quatro lojas, considerando métricas como avaliações dos clientes, categorias de produtos, itens mais e menos vendidos e custos médios de frete. O objetivo é gerar insights claros e visuais simples que apoiem decisões estratégicas.
+🛒 Lojas – Análise de Dados
+Este projeto realiza uma análise exploratória dos dados de quatro lojas, considerando métricas como:
 
-Propósito da Análise
-A análise foi feita para:
+Avaliações dos clientes
 
-Comparar o desempenho das lojas em diferentes indicadores.
+Categorias de produtos
 
-Identificar categorias e produtos com maior e menor relevância nas vendas.
+Itens mais e menos vendidos
 
-Avaliar a satisfação dos clientes por meio das notas atribuídas.
+Custos médios de frete
 
-Observar diferenças nos custos de frete.
+O objetivo é gerar insights claros, apoiados por visualizações simples e objetivas, que auxiliem na tomada de decisões estratégicas.
 
-Criar gráficos objetivos que facilitem a interpretação dos resultados.
+🎯 Propósito da Análise
+A análise foi desenvolvida para:
 
-Gráficos e Insights Obtidos
-Média de Avaliação das Lojas  
-Mostra diferenças no engajamento e na satisfação dos clientes.
+Comparar o desempenho das lojas em diferentes indicadores
 
-Vendas por Categoria  
-Evidencia quais categorias dominam em cada loja e revela tendências de preferência.
+Identificar categorias e produtos com maior e menor relevância nas vendas
 
-Produtos Mais e Menos Vendidos  
-O ranking destaca a concentração das vendas em poucos produtos, útil para decisões de estoque e promoções.
+Avaliar a satisfação dos clientes por meio das notas atribuídas
 
-Frete Médio por Loja  
-Aponta variações nos custos médios de frete, fator que pode impactar a atratividade e a conversão.
+Observar diferenças nos custos de frete
 
-Como Executar o Notebook
+Criar gráficos que facilitem a interpretação dos resultados
+
+📊 Gráficos e Insights Obtidos
+Média de Avaliação das Lojas → mostra diferenças no engajamento e satisfação dos clientes
+
+Vendas por Categoria → evidencia quais categorias dominam em cada loja e revela tendências de preferência
+
+Produtos Mais e Menos Vendidos → ranking útil para decisões de estoque e promoções
+
+Frete Médio por Loja → aponta variações nos custos médios de frete, impactando atratividade e conversão
+
+⚙️ Como Executar o Notebook
 Instale as bibliotecas necessárias:
 
 bash
@@ -41,3 +47,15 @@ Navegue até o arquivo:
 Código
 notebooks/challenge_lojas.ipynb
 Execute as células na ordem em que aparecem.
+
+📎 Link para execução no Google Colab:  
+Challenge Lojas – Notebook
+
+🚀 Tecnologias Utilizadas
+Python
+
+Pandas
+
+Matplotlib
+
+Jupyter Notebook / Google Colab
